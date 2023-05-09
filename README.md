@@ -10,11 +10,20 @@ I'm an incoming Technology Risk Consultant for Ernst & Young in Des Moines this 
 
 ### My Coursework:
 BAIS:3025 - Business Process Automation
+
 BAIS:3020	- Computational Thinking
+
 BAIS:3140 - Information Visualization
+
 BAIS:3200	- Database Management	
+
 BAIS:3250	- Data Wrangling
+
 BAIS:3300 - Digital Product Management
+
 BAIS:3500	- Data Mining
+
 BAIS:3800 - Optimization & Simulation Modeling
+
 BAIS:4150 - Business Analytics & Information Systems Capstone
+
